@@ -1,0 +1,21 @@
+.button {
+  font: inherit;
+  border: 1px solid pink;
+  background: pink;
+  color: black;
+  padding: 0.5rem 2rem;
+  cursor: pointer;
+  margin: 1rem;
+  border-radius: 2px;
+  min-width: 200px;
+}
+
+.button:hover,
+.button:active {
+  background: pink;
+  border-color: pink;
+}
+
+.button:focus {
+  outline: none;
+}
