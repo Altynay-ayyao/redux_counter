@@ -3,3 +3,4 @@ export const INCREASE_FIVE = "INCREASE_FIVE";
 export const RESET = "RESET";
 export const REMOVE_ONE = "REMOVE_ONE";
 export const REMOVE_FIVE = "REMOVE_FIVE";
+//to make sure we are not making typos.
